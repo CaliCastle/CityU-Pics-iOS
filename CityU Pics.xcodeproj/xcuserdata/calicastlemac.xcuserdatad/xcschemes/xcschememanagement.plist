@@ -7,7 +7,25 @@
 		<key>CityU Pics.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8D1561321F6FCD64000EB372</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>8D1561461F6FCD64000EB372</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>8D1561511F6FCD64000EB372</key>
+		<dict>
+			<key>primary</key>
+			<true />
 		</dict>
 	</dict>
 </dict>

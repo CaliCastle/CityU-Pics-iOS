@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14487199-b3d2-4c2b-a53c-9a9016c14b2f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo120-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo167.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo40-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo40-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo58-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo58.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo80-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/logo87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.checkin.imageset/icons8-Today-600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.checkin_icon.imageset/onboarding.checkin_icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.checkin_icon.imageset/onboarding.checkin_icon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.interact.imageset/icons8-Comments-600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.interact_icon.imageset/onboarding.interact_icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.interact_icon.imageset/onboarding.interact_icon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.language.imageset/icons8-Language-600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.language_icon.imageset/onboarding.language_icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.language_icon.imageset/onboarding.language_icon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.login_icon.imageset/onboarding.login_icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.login_icon.imageset/onboarding.login_icon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.share.imageset/icons8-Stack of Photos-600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.share_icon.imageset/onboarding.share_icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.share_icon.imageset/onboarding.share_icon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/logo-light.imageset/logo-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/logo.imageset/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Fonts/Raleway-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Fonts/Raleway-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Fonts/Raleway-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Fonts/Raleway-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.checkin.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.checkin_icon.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.interact.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.interact_icon.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.language.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.language_icon.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.login_icon.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.share.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/Onboarding/onboarding.share_icon.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/logo-light.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/logo.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Components/Onboarding/Base.lproj/OnboardingData.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Components/Onboarding/WelcomeViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Components/Onboarding/en.lproj/OnboardingData.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Components/Onboarding/zh-Hans.lproj/OnboardingData.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Fonts/FontChanger.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Helpers/SwiftHEXColors.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Storyboards/zh-Hans.lproj/LaunchScreen.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Storyboards/zh-Hans.lproj/Main.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CityU Pics/Views/OnboardingView.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Podfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Podfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/AFError.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/Alamofire.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/MultipartFormData.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/NetworkReachabilityManager.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/Notifications.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/ParameterEncoding.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/Request.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/Response.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/ResponseSerialization.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/Result.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/ServerTrustPolicy.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/SessionDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/SessionManager.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/TaskDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/Timeline.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Alamofire/Source/Validation.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/Source/AFIError.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/Source/Image.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/Source/ImageCache.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/Source/ImageDownloader.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/Source/ImageFilter.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/Source/Request+AlamofireImage.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/calicastlemac.xcuserdatad/xcschemes/Alamofire.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/calicastlemac.xcuserdatad/xcschemes/AlamofireImage.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/calicastlemac.xcuserdatad/xcschemes/Pods-CityU Pics.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/calicastlemac.xcuserdatad/xcschemes/Pods-CityU PicsTests.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/calicastlemac.xcuserdatad/xcschemes/Pods-CityU PicsUITests.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/calicastlemac.xcuserdatad/xcschemes/paper-onboarding.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/calicastlemac.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Alamofire/Alamofire-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Alamofire/Alamofire-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Alamofire/Alamofire.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Alamofire/Alamofire.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Alamofire/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AlamofireImage/AlamofireImage-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AlamofireImage/AlamofireImage-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AlamofireImage/AlamofireImage.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AlamofireImage/AlamofireImage.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AlamofireImage/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU Pics/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU Pics/Pods-CityU Pics-acknowledgements.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU Pics/Pods-CityU Pics-acknowledgements.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU Pics/Pods-CityU Pics-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU Pics/Pods-CityU Pics-frameworks.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU Pics/Pods-CityU Pics-resources.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU Pics/Pods-CityU Pics-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU Pics/Pods-CityU Pics.debug.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU Pics/Pods-CityU Pics.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU Pics/Pods-CityU Pics.release.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsTests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsTests/Pods-CityU PicsTests-acknowledgements.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsTests/Pods-CityU PicsTests-acknowledgements.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsTests/Pods-CityU PicsTests-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsTests/Pods-CityU PicsTests-frameworks.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsTests/Pods-CityU PicsTests-resources.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsTests/Pods-CityU PicsTests-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsTests/Pods-CityU PicsTests.debug.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsTests/Pods-CityU PicsTests.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsTests/Pods-CityU PicsTests.release.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsUITests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsUITests/Pods-CityU PicsUITests-acknowledgements.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsUITests/Pods-CityU PicsUITests-acknowledgements.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsUITests/Pods-CityU PicsUITests-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsUITests/Pods-CityU PicsUITests-frameworks.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsUITests/Pods-CityU PicsUITests-resources.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsUITests/Pods-CityU PicsUITests-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsUITests/Pods-CityU PicsUITests.debug.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsUITests/Pods-CityU PicsUITests.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-CityU PicsUITests/Pods-CityU PicsUITests.release.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/paper-onboarding/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/paper-onboarding/paper-onboarding-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/paper-onboarding/paper-onboarding-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/paper-onboarding/paper-onboarding-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/paper-onboarding/paper-onboarding.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/paper-onboarding/paper-onboarding.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/FillAnimatinView/FillAnimationView.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/GestureControl/GestureControl.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/Helpers/Configuring.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/Helpers/ConstraintsHalper.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/OnboardingContantView/Item/OnboardingContantViewItem.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/OnboardingContantView/OnboardingContentView.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/PageView/Item/PageViewItem.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/PageView/PageContainerView/PageContainer.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/PageView/PageView.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/PaperOnboarding.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/PaperOnboardingDataSource.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/paper-onboarding/Source/PaperOnboardingDelegate.swift" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CityU Pics/ViewController.swift" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CityU Pics/Base.lproj/LaunchScreen.storyboard" afterPath="$PROJECT_DIR$/CityU Pics/Storyboards/Base.lproj/LaunchScreen.storyboard" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CityU Pics/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/CityU Pics/Storyboards/Base.lproj/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CityU Pics.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/CityU Pics.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CityU Pics.xcodeproj/xcuserdata/calicastlemac.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/CityU Pics.xcodeproj/xcuserdata/calicastlemac.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CityU Pics/AppDelegate.swift" afterPath="$PROJECT_DIR$/CityU Pics/AppDelegate.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/CityU Pics/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CityU Pics/Info.plist" afterPath="$PROJECT_DIR$/CityU Pics/Info.plist" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_46F28CB4-6B4B-4534-80CF-099D1E952A83" />
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AppDelegate.swift" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CityU Pics/AppDelegate.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CityU Pics/AppDelegate.swift" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="140" />
+    <option name="y" value="555" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="CityU Pics" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="CityU Pics" type="1d218c8b:XcodeProjectNode" />
+              <item name="CityU Pics" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="CityU Pics" type="1d218c8b:XcodeProjectNode" />
+              <item name="CityU Pics" type="fcab9f18:XcodeViewNode" />
+              <item name="Helpers" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CityU Pics">
+    <configuration name="CityU Pics" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CityU Pics" TARGET_NAME="CityU Pics" CONFIG_NAME="Debug" SCHEME_NAME="CityU Pics" RUN_TARGET_PROJECT_NAME="CityU Pics" RUN_TARGET_NAME="CityU Pics" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14487199-b3d2-4c2b-a53c-9a9016c14b2f" name="Default" comment="" />
+      <created>1505972700368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505972700368</updated>
+      <workItem from="1505972703234" duration="127000" />
+      <workItem from="1505972845483" duration="218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="345000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="140" y="555" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16714285" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CityU Pics/Helpers/SwiftHEXColors.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2576">
+          <caret line="112" column="1" lean-forward="true" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CityU Pics/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

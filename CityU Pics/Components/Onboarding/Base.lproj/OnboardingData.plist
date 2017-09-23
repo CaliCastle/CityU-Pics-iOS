@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>share_icon</string>
+		<key>image</key>
+		<string>share</string>
+		<key>title</key>
+		<string>SHARE</string>
+		<key>titleColor</key>
+		<string>#FFFFFF</string>
+		<key>description</key>
+		<string>THE CityU WAY</string>
+		<key>descColor</key>
+		<string>#5AD5A8</string>
+		<key>color</key>
+		<string>#112946</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>interact_icon</string>
+		<key>image</key>
+		<string>interact</string>
+		<key>title</key>
+		<string>A FUN WAY</string>
+		<key>titleColor</key>
+		<string>#FFD300</string>
+		<key>description</key>
+		<string>TO INTERACT</string>
+		<key>descColor</key>
+		<string>#4FC3F7</string>
+		<key>color</key>
+		<string>#32427D</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>checkin_icon</string>
+		<key>image</key>
+		<string>checkin</string>
+		<key>title</key>
+		<string>DAILY CHECKIN</string>
+		<key>titleColor</key>
+		<string>#FECD11</string>
+		<key>description</key>
+		<string>KEEP THE STREAK</string>
+		<key>descColor</key>
+		<string>#FFFFFF</string>
+		<key>color</key>
+		<string>#6371C6</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>language_icon</string>
+		<key>image</key>
+		<string>language</string>
+		<key>title</key>
+		<string>MULTILINGUAL</string>
+		<key>titleColor</key>
+		<string>#FFFFFF</string>
+		<key>description</key>
+		<string>SUPPORT</string>
+		<key>descColor</key>
+		<string>#FDDE9D</string>
+		<key>color</key>
+		<string>#D16565</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>login_icon</string>
+		<key>color</key>
+		<string>#112946</string>
+	</dict>
+</array>
+</plist>
