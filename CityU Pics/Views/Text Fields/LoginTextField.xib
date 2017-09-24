@@ -15,7 +15,11 @@
         </array>
     </customFonts>
     <objects>
-        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LoginTextField" customModule="CityU_Pics" customModuleProvider="target"/>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LoginTextField" customModule="CityU_Pics" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="5CG-0c-LlR" id="HGE-v1-ddG"/>
+            </connections>
+        </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
         <view contentMode="scaleToFill" id="5CG-0c-LlR" customClass="LoginTextField" customModule="CityU_Pics" customModuleProvider="target">
             <rect key="frame" x="0.0" y="0.0" width="300" height="60"/>
@@ -70,12 +74,15 @@
             </constraints>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <viewLayoutGuide key="safeArea" id="GuA-fe-DcV"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="string" keyPath="placeholderText" value="CityU Email"/>
+            </userDefinedRuntimeAttributes>
             <connections>
                 <outlet property="icon" destination="eQj-aK-vVa" id="4Al-Dn-OKb"/>
                 <outlet property="placeholder" destination="0Zw-aa-85K" id="lLS-UZ-nHI"/>
                 <outlet property="textField" destination="A9a-KQ-aM7" id="Yet-Nj-L7R"/>
             </connections>
-            <point key="canvasLocation" x="260" y="49"/>
+            <point key="canvasLocation" x="224" y="-45"/>
         </view>
     </objects>
     <resources>

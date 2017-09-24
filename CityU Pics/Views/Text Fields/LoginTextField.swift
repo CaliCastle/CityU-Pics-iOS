@@ -7,24 +7,42 @@
 //
 
 import UIKit
+import Foundation
 
 @IBDesignable
 class LoginTextField: UIView {
 
+    @IBOutlet var view: LoginTextField!
     @IBOutlet weak var icon: UIImageView!
     @IBOutlet weak var textField: UITextField!
     @IBOutlet weak var placeholder: UILabel!
     
+    @IBInspectable var placeholderText: String!
+    
     override init(frame: CGRect) {
         super.init(frame: frame)
+        setup()
     }
     
     required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
+        setup()
+    }
+    
+    override func prepareForInterfaceBuilder() {
+        super.prepareForInterfaceBuilder()
+        
+        view = loadViewFromNib() as! LoginTextField!
+        view.frame = bounds
+        
+        view.autoresizingMask = [UIViewAutoresizing.flexibleWidth,
+                                 UIViewAutoresizing.flexibleHeight]
+        
+        addSubview(view)
     }
     
     func setup() {
-        
+//        placeholder.text = placeholderText
     }
     
     func loadViewFromNib() -> UIView! {
